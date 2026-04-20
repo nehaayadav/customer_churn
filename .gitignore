@@ -1,1 +1,20 @@
+# virtual environment
+churn_env/
 
+# python cache
+__pycache__/
+*.pyc
+
+# dataset files
+data/raw/
+data/processed/
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# mac system files
+.DS_Store
+
+# model files
+*.pkl
+*.joblib
